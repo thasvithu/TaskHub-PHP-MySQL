@@ -86,7 +86,7 @@
 }
 .side-bar {
 	width: 250px;
-	background: #262931;
+	background: #2f312f;
 	min-height: 100vh;
 	transition: 500ms width;
 }
@@ -309,7 +309,7 @@
 }
 .dashboard-item {
     text-align: center;
-    background: #262931;
+    background: #2f312f;
     width: 200px;
     padding: 30px 5px;
     margin-bottom: 40px;
