@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management System
 ### A simple Task Management System built with PHP, MySQL, and XAMPP that allows users (admin and employees) to manage tasks, assign roles, track task progress, and receive notifications.
 
@@ -25,3 +26,5 @@
 ### Default Employee User:
 + Username: john 
 + Password: 123
+=======
+>>>>>>> b8b14a638b1676a5eee13a3d0f9eec477a1a4e73
