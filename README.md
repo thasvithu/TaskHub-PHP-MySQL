@@ -44,20 +44,6 @@ Supports two distinct roles:
 
 ---
 
-## 🎨 Project Color Theme
-
-| Purpose           | Color            | HEX Code    |
-|-------------------|------------------|-------------|
-| **Primary Color** | Deep Blue         | `#1E3A8A`    |
-| **Secondary Color** | Vibrant Teal    | `#14B8A6`    |
-| **Accent Color**  | Amber/Orange      | `#F59E0B`    |
-| **Success Color** | Green             | `#22C55E`    |
-| **Danger Color**  | Red               | `#EF4444`    |
-| **Background**    | Light Gray        | `#F3F4F6`    |
-| **Text**          | Dark Gray         | `#374151`    |
-
----
-
 ## 🛠️ Requirements
 
 Ensure your environment meets the following prerequisites:
@@ -113,7 +99,7 @@ Ensure your environment meets the following prerequisites:
 
 | Member | GitHub |
 |--------|--------|
-| V. Vithusan (Team Lead) | [thasvithu](https://github.com/thasvithu) |
+| V. Vithusan | [thasvithu](https://github.com/thasvithu) |
 | S. A. Chamidu Jayanga | [chamidusamarasinghe](https://github.com/chamidusamarasinghe) |
 | B. Sachini Madhubhashinie | [Sachini2001-dev](https://github.com/Sachini2001-dev) |
 | N. G. Hasini Anuththara Weerasinghe | [HasiniAnuththara](https://github.com/HasiniAnuththara) |
