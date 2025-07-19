@@ -63,7 +63,7 @@ if (isset($_SESSION['role']) && isset($_SESSION['id']) && $_SESSION['role'] == "
 </body>
 </html>
 <?php }else{ 
-   $em = "First login";
+   $em ="First login";
    header("Location: login.php?error=$em");
    exit();
 }
