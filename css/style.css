@@ -86,7 +86,11 @@
 }
 .side-bar {
 	width: 250px;
+<<<<<<< HEAD
 	background: #ac6b0f;
+=======
+	background: #2f312f;
+>>>>>>> 8dfa0b0267463c5b9422f61122ed13eef71dbdd7
 	min-height: 100vh;
 	transition: 500ms width;
 }
@@ -309,7 +313,7 @@
 }
 .dashboard-item {
     text-align: center;
-    background: #262931;
+    background: #2f312f;
     width: 200px;
     padding: 30px 5px;
     margin-bottom: 40px;
