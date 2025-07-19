@@ -71,9 +71,10 @@
 				<li>
 					<a href="logout.php">
 						<i class="fa fa-sign-out" aria-hidden="true"></i>
-						<span>Logout</span>
+						<span>Logout </span>
 					</a>
 				</li>
 			</ul>
 		<?php } ?>
 		</nav>
+
