@@ -86,7 +86,7 @@
 }
 .side-bar {
 	width: 250px;
-	background: #262931;
+	background: #ac6b0f;
 	min-height: 100vh;
 	transition: 500ms width;
 }
@@ -324,3 +324,5 @@
 	display: block;
     color: #fff;
 }
+
+/* Responsive Design */
