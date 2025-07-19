@@ -1,4 +1,3 @@
-````markdown
 # 📌 TaskHub - Task Management System
 
 Welcome to **TaskHub**, an intuitive and efficient **Task Management System** built using **PHP**, **MySQL**, and **XAMPP**.  
@@ -45,6 +44,20 @@ Supports two distinct roles:
 
 ---
 
+## 🎨 Project Color Theme
+
+| Purpose           | Color            | HEX Code    |
+|-------------------|------------------|-------------|
+| **Primary Color** | Deep Blue         | `#1E3A8A`    |
+| **Secondary Color** | Vibrant Teal    | `#14B8A6`    |
+| **Accent Color**  | Amber/Orange      | `#F59E0B`    |
+| **Success Color** | Green             | `#22C55E`    |
+| **Danger Color**  | Red               | `#EF4444`    |
+| **Background**    | Light Gray        | `#F3F4F6`    |
+| **Text**          | Dark Gray         | `#374151`    |
+
+---
+
 ## 🛠️ Requirements
 
 Ensure your environment meets the following prerequisites:
@@ -71,7 +84,7 @@ Ensure your environment meets the following prerequisites:
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/thasvithuTaskHub-PHP-MySQL.git
+   git clone https://github.com/thasvithu/TaskHub-PHP-MySQL.git
    ```
 
 2. **Import the Database**
@@ -96,6 +109,17 @@ Ensure your environment meets the following prerequisites:
 
 ---
 
+## 👥 Team TaskHub
+
+| Member | GitHub |
+|--------|--------|
+| V. Vithusan (Team Lead) | [thasvithu](https://github.com/thasvithu) |
+| S. A. Chamidu Jayanga | [chamidusamarasinghe](https://github.com/chamidusamarasinghe) |
+| B. Sachini Madhubhashinie | [Sachini2001-dev](https://github.com/Sachini2001-dev) |
+| N. G. Hasini Anuththara Weerasinghe | [HasiniAnuththara](https://github.com/HasiniAnuththara) |
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions!  
@@ -111,4 +135,3 @@ This project is open-source and distributed under the **MIT License**.
 
 **Developed with ❤️ by Team TaskHub**  
 > Empowering teams to stay organized and productive.
-````
